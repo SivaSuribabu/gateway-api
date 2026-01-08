@@ -1,2 +1,3 @@
-# gateway-api
-This Document contains  clear documentation that , how gateway  api works , how to install.
+# Learn Gateway API using Envoy Gateway
+
+Notes for my YouTube tutorial on Gateway API.
